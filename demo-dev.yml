@@ -6,3 +6,6 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka
 env: dev1
+girl: 
+  name: xiaoyu
+  sex: 女
