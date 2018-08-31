@@ -7,5 +7,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 env: dev
 girl: 
-  name: xiaoyu
-  sex: 女
+  name: hah
+  sex: female
