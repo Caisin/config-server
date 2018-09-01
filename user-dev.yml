@@ -12,5 +12,5 @@ eureka:
     host: localhost
 env: dev
 girl: 
-  name: huangyu2
+  name: huangyu
   sex: female
